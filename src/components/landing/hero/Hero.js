@@ -21,7 +21,8 @@ class Hero extends Component
 								</p>
 								<div className = 'buttons'>
 									<Link className = 'btn btn-danger text-capitalize me-3 shadow' to = '/about'>read more<i className="ms-2 fas fa-chevron-right"></i></Link>
-									<Link className = 'btn btn-outline-danger text-capitalize shadow' to = '/contact'>Math Quiz<i className="ms-2 fas fa-envelope"></i></Link>
+									
+									<a href="https://math-wise-quiz-6wme6xewv-allendg.vercel.app"  className = 'btn btn-outline-danger text-capitalize shadow'> Math Quiz<i className="ms-2 fas fa-envelope"></i></a>
 								</div>
 							</div>
 						</div>

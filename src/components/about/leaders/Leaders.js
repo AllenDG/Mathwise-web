@@ -3,6 +3,8 @@ import React, {Component} from 'react'
 import './Leaders.css'
 import {leaders} from './Data'
 
+
+
 class Leaders extends Component
 {
 	display_leaders = _ =>
@@ -14,7 +16,7 @@ class Leaders extends Component
 					<h6 className = 'name text-capitalize mb-4'>{item.name}</h6>
 					<p className = 'desc text-capitalize mb-4 px-3'>{item.desc}</p>
 					<div className = 'leader-footer d-flex align-items-center'>
-						<img className = 'rounded-circle shadow' alt = 'leader' src = {item.avatar.default} />
+					
 						<div className = 'profile-names ms-3'>
 							<h6 className = 'skill my-1'>{item.skills}</h6>
 							<h6 className = 'nickname text-capitalize m-0 text-muted'>@{item.nickname}</h6>

@@ -5,7 +5,7 @@ import Navbar from './components/navbar/Navbar'
 import Footer from './components/footer/Footer'
 import Landing from './components/landing/Landing'
 import About from './components/about/About'
-import Blogs from './components/blogs/Blogs'
+
 import Sb from './components/scrollbtn/Sb'
 import Courses from './components/courses/Courses'
 import Contact from './components/contact/Contact'
@@ -29,7 +29,6 @@ class App extends Component
                       <Route exact path = '/' element = {<Landing />} />
                       <Route path = '/OpenSchool' element = {<Landing />} />
                       <Route path = '/about' element = {<About />} />
-                      <Route path = '/blogs/*' element = {<Blogs />} />
                       <Route path = '/courses/*' element = {<Courses />} />
                       <Route path = '/contact' element = {<Contact />} />
                       <Route path = '*' element = {<Notfound />} />

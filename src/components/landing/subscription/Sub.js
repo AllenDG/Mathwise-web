@@ -20,7 +20,7 @@ class Sub extends Component
 							<div className = 'right-side text-lg-start text-center'>
 								<h3 className = 'big-title text-capitalize mb-4'>get weekly courses and news are sent to your inbox</h3>
 								<p className = 'text text-capitalize mb-4'>
-									<span className = 'sub-word'>MathWise</span>  Offers New Courses And Lessons Weekly In All Fields, If You Are Interested Then You Might Desire To Register Via Your Email In Order To Get Our Offers Directly In Your Inbox
+								<span className="m-letter">M</span>ath <span className="w-letter">W</span>ise  Offers New Courses And Lessons Weekly In All Fields, If You Are Interested Then You Might Desire To Register Via Your Email In Order To Get Our Offers Directly In Your Inbox
 								</p>
 								<div className = 'row'>
 									<div className = 'col-lg-8 col-12'>

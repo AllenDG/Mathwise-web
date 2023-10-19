@@ -6,7 +6,7 @@ let faq_items = [
 		aria_controls: 'collapseOne',
 		id_two: 'collapseOne',
 		aria_labelledby: 'headingOne',
-		title: 'ullam corporis suscipit',
+		title: 'FAQ 1: What is the purpose of PEMDAS in mathematics?',
 		show: true
 	},
 	{
@@ -15,7 +15,7 @@ let faq_items = [
 		aria_controls: 'collapseTwo',
 		id_two: 'collapseTwo',
 		aria_labelledby: 'headingTwo',
-		title: 'Lorem ipsum dolor sit amet',
+		title: 'FAQ 2: Can the order of operations in mathematics be changed?',
 		show: false
 	},
 	{
@@ -24,7 +24,7 @@ let faq_items = [
 		aria_controls: 'collapseThree',
 		id_two: 'collapseThree',
 		aria_labelledby: 'headingThree',
-		title: 'sed quia consequuntur',
+		title: 'FAQ 3: Why is understanding PEMDAS important for students?',
 		show: false
 	}
 ]

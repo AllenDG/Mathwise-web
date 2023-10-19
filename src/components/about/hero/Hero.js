@@ -18,7 +18,7 @@ class Hero extends Component
 						<div className = 'c col-lg-6 col-12'>
 							<div className = 'left-side mb-lg-0 mb-5 text-lg-start text-center'>
 								<h5 className = 'title text-capitalize mb-3'>we are <span>Math Wise</span></h5>
-								<p className  = 'desc mb-lg-4 mb-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+								<p className  = 'desc mb-lg-4 mb-5'>Math Wise is an educational app that helps elementary school students learn the PEMDAS order of operations in mathematics through interactive lessons, practice exercises, step-by-step solutions, and personalized learning, making math enjoyable and accessible for young learners.</p>
 							</div>
 						</div>
 						<div className = 'c col-lg-6 col-12'>

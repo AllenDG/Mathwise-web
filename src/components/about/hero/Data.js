@@ -1,7 +1,7 @@
 
 let contact = [
 	{
-		info: 'openschool@support.com',
+		info: 'mathwise@gmail.com',
 		icon: 'fas fa-envelope',
 		cls: 'e-mail'
 	},
@@ -11,7 +11,7 @@ let contact = [
 		cls: 'phone-number'
 	},
 	{
-		info: '721 S Warren AveMalvern, Pennsylvania(PA), 1935',
+		info: 'Pangasinan|Dagupan City',
 		icon: 'fas fa-map-marker-alt',
 		cls: 'location'
 	}
